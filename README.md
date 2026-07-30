@@ -1,3 +1,22 @@
+# Project Readiness Assignment
+
+This repository was improved as part of a backend project readiness assignment. The goal was to make the project easier to understand, maintain, and collaborate on using software engineering and DevOps best practices.
+
+## Improvements Made
+
+- Added `.env.example` for environment configuration
+- Updated project documentation
+- Added assignment notes
+- Improved repository readiness for team collaboration
+
+## Technologies Used
+
+- FastAPI
+- Python
+- Docker
+- Git and GitHub
+
+---
 # Full Stack FastAPI Template
 
 <a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3A%22Test+Docker+Compose%22" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test%20Docker%20Compose/badge.svg" alt="Test Docker Compose"></a>
